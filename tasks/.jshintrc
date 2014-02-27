@@ -1,15 +1,5 @@
 {
-  "predef": {
-    "document": true,
-    "window": true,
-    "location": true,
-    "setTimeout": true,
-    "Ember": true,
-    "Em": true,
-    "DS": true,
-    "$": true
-  },
-  "node" : false,
+  "node" : true,
   "browser" : false,
   "boss" : true,
   "curly": false,

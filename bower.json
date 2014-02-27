@@ -1,0 +1,26 @@
+{
+  "name": "Frontend BBR Mobile",
+  "dependencies": {
+    "bootstrap3-less-js": "~3.0.3",
+    "less.js": "~1.6.3"
+  },
+  "resolutions": {
+    "ember": "~1.4.0"
+  },
+  "version": "0.0.0",
+  "homepage": "https://github.com/bbrmobile/frontend",
+  "authors": [
+    "Sergio Toro <debian.storo@gmail.com>"
+  ],
+  "description": "Frontend project",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ]
+}
