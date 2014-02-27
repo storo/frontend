@@ -13,7 +13,7 @@
     "Sergio Toro <debian.storo@gmail.com>"
   ],
   "description": "Frontend project",
-  "license": "MIT",
+  "license": "No License",
   "private": true,
   "ignore": [
     "**/.*",
