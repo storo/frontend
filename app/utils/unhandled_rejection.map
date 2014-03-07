@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "unhandled_rejection.js",
+  "sourceRoot": "",
+  "sources": [
+    "unhandled_rejection.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;AAAA,MAAA,kBAAA;;AAAA,EAAA,kBAAA,GAAqB,SAAC,MAAD,GAAA;AACnB,IAAA,KAAK,CAAC,MAAM,CAAC,KAAb,CAAmB,MAAnB,CAAA,CAAA;AAAA,IACA,KAAK,CAAC,MAAM,CAAC,MAAb,CAAoB,MAApB,CADA,CAAA;AAAA,IAGA,UAAA,CAAW,SAAA,GAAA;AACT,YAAM,MAAN,CADS;IAAA,CAAX,EAGE,CAHF,CAHA,CADmB;EAAA,CAArB,CAAA;;AAAA,EAUA,iCAVA,CAAA;AAAA"
+}
